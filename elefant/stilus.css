@@ -1,0 +1,28 @@
+
+.text-center{
+    text-align: center;
+    padding: 10px;
+    font-style: italic;
+}
+.box {
+    border: 1px solid red;
+    background-color: rgb(170, 144, 142);
+    padding: 10px;
+}
+.img-size{
+    height: 150px;
+    transition: transform .60s;
+    box-shadow: 10px 10px 5px grey;
+}
+p{
+    font-size: 18px;
+}
+.link{
+    margin-top: 20px;
+}
+.elefant-name{
+    padding: 10px;
+}
+body{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
